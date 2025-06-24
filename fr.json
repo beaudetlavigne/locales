@@ -1,4 +1,9 @@
 {
   "hero.title": "Compositeur de musique vidéo",
   "hero.subtitle": "Création musicale pour l'image, l'émotion, et le récit."
+  "menu.home": "Accueil",
+  "menu.gallery": "Galerie",
+  "menu.video": "Vidéo",
+  "menu.portfolio": "Portfolio",
+  "menu.contact": "Contact"
 }
